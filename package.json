@@ -1,0 +1,32 @@
+{
+  "name": "insert-lis-task",
+  "version": "1.0.0",
+  "description": "Solution for \"Insert the HTML in the List\" task for javascript.info Chapter \"Modifying the DOM\"",
+  "main": "scripts/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/insert-lis.git"
+  },
+  "keywords": [
+    "insert-lis",
+    "insert-html",
+    "task9"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/insert-lis/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/insert-lis#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-config-standard": "^14.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
